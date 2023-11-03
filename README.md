@@ -2,11 +2,13 @@
 
 ### I'm Brian Ochieng 🤖
 
-A Creative Frontend developer who is enthusiastic about learning, building and solving problems.
+A Creative self-taught Frontend developer who is enthusiastic about learning, building and solving problems.
+I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS or JavaScript.
 <img align="right" alt="Coding is life" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
 
 I'm currently learning React, next.js,
-Ask me about JavaScript.
+I'm also looking to collaborate on cool projects.
+Ask me about Frontend.
 
 
 
