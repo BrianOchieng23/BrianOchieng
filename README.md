@@ -32,7 +32,9 @@ https://mercede-benz-amg.netlify.app/ ¦
 https://404-error-br23.netlify.app/ ¦
 https://cool-headphones-br23.netlify.app/ ¦
 https://ecological-plants-br23.netlify.app/ ¦
-https://adventure-cool-tours.netlify.app/
+https://adventure-cool-tours.netlify.app/ ¦
+https://cool-airpods-br23.netlify.app/
+
 
 
 🥂 Cheers!
