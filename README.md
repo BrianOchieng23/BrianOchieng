@@ -26,7 +26,7 @@ https://weather-app-br23.netlify.app/ ¦
 https://todo-list-br23.netlify.app/ ¦
 https://mini-mp3-br23.netlify.app/ ¦
 https://image-gallery-23.netlify.app/ ¦
-https://bmi-calculator-br23.netlify.app/ ¦
+https://bmi-calc-br23.netlify.app/ ¦
 https://barcode-generator-br23.netlify.app/ ¦
 https://mercede-benz-amg.netlify.app/ ¦
 https://404-error-br23.netlify.app/ ¦
